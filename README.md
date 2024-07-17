@@ -1,0 +1,1 @@
+from day 50 of replit code a challenge from David from Replit, Thank you so much David, for this practise challenge in python . This beginner python project will teach you how to create a random Idea Storage Machine in python in few lines of code
